@@ -4,7 +4,7 @@
 
 <div id="container">
   <h3>🛠️ Skills</h3>
-<br/>
+<br>
   
 - ⚙️ Ferramentas: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
 ![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
@@ -37,21 +37,27 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 
 - 💬 Um fato sobre mim: sou viciado em séries e apaixonado por animes
-  
-</div>
-<br/>
-<br/>
+<br>
 
 ---
-<div id="footer" align="right">
-<h3>🌟 GitHub Stats</h3>
+<div align="center">
+<h3>🛠️ Projetos</h3>
 <br>
   
 Codando atualmente [**Grupo J.Sá | Admin System**](https://github.com/WilliamJesusDev/GrupoJSA) 🏢
 
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=grupojsa&theme=github_dark' alt='GrupoJsa repo stats'/>
 <br>
+</div>
+</div>
+
 <br>
+
+---
+<div id="footer" align="right">
+<h3>🌟 GitHub Stats</h3>
+<br>
+
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&theme=github_dark' alt='Top Langs'/>
 <br>
 <br>
@@ -61,7 +67,6 @@ Codando atualmente [**Grupo J.Sá | Admin System**](https://github.com/WilliamJe
 <img src='https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&theme=github_dark' alt='William Wakatime stats'/>
 
 </div>
-<br>
 <br>
 
 ---
