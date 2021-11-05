@@ -1,12 +1,10 @@
 <div id='header' align='center' >
-<h1>Prazer, eu sou William Jesus 👨🏽‍💻</h1>
+  <h1>Prazer, eu sou William Jesus 👨🏽‍💻</h1>
 </div>
 
 <div id="container">
-  <h3>👨🏽‍💻 Sobre mim</h3>
+  <h3>🛠️ Skills</h3>
 <br/>
-
-- 🏢 Trabalhando atualmente em [**Grupo J.Sá | Admin System**](https://github.com/WilliamJesusDev/GrupoJSA)
   
 - ⚙️ Ferramentas: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
 ![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
@@ -39,7 +37,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 
 - 💬 Um fato sobre mim: sou viciado em séries e apaixonado por animes
-
+  
 </div>
 <br/>
 <br/>
@@ -47,16 +45,24 @@
 ---
 <div id="footer" align="right">
 <h3>🌟 GitHub Stats</h3>
-<br/>
+<br>
+  
+Codando atualmente [**Grupo J.Sá | Admin System**](https://github.com/WilliamJesusDev/GrupoJSA) 🏢
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&theme=dracula' alt='Top Langs'/>
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=grupojsa&theme=github_dark' alt='GrupoJsa repo stats'/>
 <br>
 <br>
-<img src='https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=contribs&theme=dracula&show_icons=true' alt='William github stats'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&theme=github_dark' alt='Top Langs'/>
+<br>
+<br>
+<img src='https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&theme=github_dark&show_icons=true' alt='William Github Stats'/>
+<br>
+<br>
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&theme=github_dark' alt='William Wakatime stats'/>
 
 </div>
 <br>
 <br>
 
 ---
-<h3 align='center'>By<em> William Jesus </em>2020 ©</h3>
+<h3 align='center'>By<em> William Jesus </em>2021 ©</h3>
