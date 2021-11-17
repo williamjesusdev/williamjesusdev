@@ -44,9 +44,9 @@
 <h3>🛠️ Projetos</h3>
 <br>
   
-Codando atualmente [**Grupo J.Sá | Admin System**](https://github.com/WilliamJesusDev/GrupoJSA) 🏢
+Codando atualmente [**Blue Bank | Pan Academy**](https://github.com/williamjesusdev/pan-academy-blue-bank/tree/develop) 🏢
 
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=grupojsa&theme=github_dark' alt='GrupoJsa repo stats'/>
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=github_dark' alt='BlueBank repo stats'/>
 <br>
 </div>
 </div>
