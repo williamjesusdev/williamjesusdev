@@ -1,5 +1,15 @@
 <div id='header' align='center' >
-  <h1>Prazer, eu sou William Jesus 👨🏽‍💻</h1>
+  <h1>Prazer, eu sou William Jesus :flying_saucer: </h1>
+</div>
+
+<div align='center'> 
+  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511986695676)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/williamjesusdev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamjesusti@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamjesusdev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/williamjesusdev)
+  
 </div>
 
 <div id="container">
@@ -28,8 +38,9 @@
 
 - ☁ Cloud: ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)
   
-- 📚 Estudando:
+- 📚 Estudando: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
