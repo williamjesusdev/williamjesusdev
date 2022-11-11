@@ -21,6 +21,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=plastic&logo=Eclipse&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT%20-%23F05033.svg?&style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![Apache Subversion](https://img.shields.io/badge/Subversion-%23809CC9.svg?style=plastic&logo=subversion&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=plastic&logo=docker&logoColor=white)
   
 - 🚀 Frontend: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -28,23 +29,27 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-cbb130?style=plastic&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
 
-- 💻 Backend: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java)
+- 💻 Backend: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk)
 ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=plastic&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-1B1F23?style=plastic&logo=spring-boot&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-1B1F23?style=plastic&logo=spring-boot)
 ![Node.JS](https://img.shields.io/badge/Node.JS%20-%2343853D.svg?style=plastic&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.JS-1B1F23.svg?style=plastic&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.JS-%23404d59?style=plastic&logo=express&logoColor=%2361DAFB)
   
 - ⚡ Database: ![MySql](https://img.shields.io/badge/MySQL-005C84?&style=plastic&logo=mysql&logoColor=white)
 ![Postgre](https://img.shields.io/badge/PostgreSQL-316192?&style=plastic&logo=postgresql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+![IBM Db2](https://img.shields.io/badge/IBM%20Db2-00952b?style=plastic&logo=ibm)
+  
+- 🗄️ Servers: ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black)
+![IBM Websphere](https://img.shields.io/badge/IBM%20Websphere-6e5f9b?style=plastic&logo=ibm)
 
 - ☁ Cloud: ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)
   
-- 📚 Estudando: ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native%20-%2320232a.svg?style=plastic&logo=react&logoColor=white)
+- 📚 Estudando: ![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.JS-black?style=plastic&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss%20-%2338B2AC.svg?&style=plastic&logo=tailwind-css&logoColor=white)
@@ -61,7 +66,17 @@
   
 Codando atualmente [**Blue Bank | Pan Academy**](https://github.com/williamjesusdev/pan-academy-blue-bank/tree/develop) 🏢
 
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=github_dark' alt='BlueBank repo stats'/>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=swift"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=github_dark' alt='BlueBank repo stats'/>
+</picture>
 <br>
 </div>
 </div>
@@ -69,20 +84,52 @@ Codando atualmente [**Blue Bank | Pan Academy**](https://github.com/williamjesus
 <br>
 
 ---
-<div id="footer" align="right">
+<div id="footer" align="left">
 <h3>🌟 GitHub Stats</h3>
 <br>
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&theme=github_dark' alt='Top Langs'/>
-<br>
-<br>
-<img src='https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&theme=github_dark&show_icons=true' alt='William Github Stats'/>
-<br>
-<br>
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&theme=github_dark' alt='William Wakatime stats'/>
+<div align="center">
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=450&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=450&theme=swift"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=450&theme=github_dark' alt='Top Langs'/>
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=450&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=450&theme=swift"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src='https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=450&theme=github_dark' alt='William Github Stats'/>
+</picture>
+</div>
+
+<img width="25px"/>
+  
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=swift"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark' alt='William Wakatime Stats'/>
+</picture>
 
 </div>
 <br>
 
 ---
-<h3 align='center'>By<em> William Jesus </em>2021 ©</h3>
+<h3 align='center'>By<em> William Jesus </em>2022 ©</h3>
