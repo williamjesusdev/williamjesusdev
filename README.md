@@ -114,6 +114,8 @@ Codando atualmente [**Blue Bank | Pan Academy**](https://github.com/williamjesus
 </picture>
 </div>
   
+<img width="8%"/>
+  
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark"
