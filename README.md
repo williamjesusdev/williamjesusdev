@@ -2,19 +2,21 @@
   <h1>Prazer, eu sou William Jesus :flying_saucer: </h1>
 </div>
 
-<div align='center'> 
-  
+<div align='center'>
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511986695676)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/williamjesusdev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamjesusti@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamjesusdev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/williamjesusdev)
-  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/williamjesus.dev)
+
 </div>
 
-<div id="container">
-  <h3>🛠️ Skills</h3>
-<br>
+---
+
+<div>
+  <h3 align="center">🛠️ Skills</h3>
+  <br>
   
 - ⚙️ Ferramentas: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
 ![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
@@ -56,78 +58,80 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 
-- 💬 Um fato sobre mim: sou viciado em séries e apaixonado por animes
-<br>
+- 💬 Um fato sobre mim: sou viciado em séries e apaixonado por animes  
 
----
-<div align="center">
-<h3>🛠️ Projetos</h3>
-<br>
-  
-Codando atualmente [**Blue Bank | Pan Academy**](https://github.com/williamjesusdev/pan-academy-blue-bank/tree/develop) 🏢
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=github_dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=swift"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src='https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=github_dark' alt='BlueBank repo stats'/>
-</picture>
-<br>
-</div>
+  <br>
 </div>
 
-<br>
-
 ---
-<div id="footer" align="left">
-<h3>🌟 GitHub Stats</h3>
-<br>
 
 <div align="center">
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=swift"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=github_dark' alt='Top Langs'/>
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=swift"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src='https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark' alt='William Github Stats'/>
-</picture>
-</div>
+  <h3>💻 Projetos</h3>
+  <br>
   
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=swift"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src='https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark' alt='William Wakatime Stats'/>
-</picture>
+Ultimo projeto [**Blue Bank | Pan Academy**](https://github.com/williamjesusdev/pan-academy-blue-bank/tree/develop) 🏢
 
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=github_dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=swift"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=github_dark' alt='BlueBank repo stats'/>
+  </picture>
+  
+  <br>
 </div>
-<br>
 
 ---
-<h3 align='center'>By<em> William Jesus </em>2022 ©</h3>
+
+<div align="center">
+  <h3>🌟 GitHub Stats</h3>
+  <br>
+
+  <div align="center">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=github_dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=swift"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=github_dark' alt='Top Langs'/>
+    </picture>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=swift"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src='https://github-readme-stats.vercel.app/api?username=williamjesusdev&hide=issues&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark' alt='William Github Stats'/>
+    </picture>
+  </div>
+    
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=swift"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark' alt='William Wakatime Stats'/>
+  </picture>
+
+  <br>
+</div>
+
+---
+
+<h3 align='center'>By<em> William Jesus </em>2023 ©</h3>
