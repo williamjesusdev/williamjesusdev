@@ -134,4 +134,4 @@ Ultimo projeto [**Blue Bank | Pan Academy**](https://github.com/williamjesusdev/
 
 ---
 
-<h3 align='center'>By<em> William Jesus </em>2023 ©</h3>
+<h3 align='center'>By<em> William Jesus </em>2024 ©</h3>
