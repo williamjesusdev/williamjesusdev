@@ -106,14 +106,14 @@ Ultimo projeto [**Blue Bank | Pan Academy**](https://github.com/williamjesusdev/
     </picture>
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&include_all_commits=true&show=prs_merged&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark&hide=issues,contribs"
+        srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&show=prs_merged&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark&hide=issues%2Ccontribs"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&include_all_commits=true&show=prs_merged&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=swift&hide=issues,contribs"
+        srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&show=prs_merged&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=swift&hide=issues%2Ccontribs"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src='https://github-readme-stats.vercel.app/api?username=williamjesusdev&include_all_commits=true&show=prs_merged&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark&hide=issues,contribs' alt='William Github Stats'/>
+      <img src='https://github-readme-stats.vercel.app/api?username=williamjesusdev&show=prs_merged&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark&hide=issues%2Ccontribs' alt='William Github Stats'/>
     </picture>
   </div>
     
