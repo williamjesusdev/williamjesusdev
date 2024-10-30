@@ -73,14 +73,14 @@ Ultimo projeto [**Blue Bank | Pan Academy**](https://github.com/williamjesusdev/
 
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=github_dark&hide_border=true"
+      srcset="https://github-readme-stats-git-master-williamjesusdevs-projects.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=github_dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=swift"
+      srcset="https://github-readme-stats-git-master-williamjesusdevs-projects.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=swift"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=github_dark' alt='BlueBank repo stats'/>
+    <img src='https://github-readme-stats-git-master-williamjesusdevs-projects.vercel.app/api/pin/?username=williamjesusdev&repo=pan-academy-blue-bank&theme=github_dark' alt='BlueBank repo stats'/>
   </picture>
   
   <br>
@@ -95,38 +95,38 @@ Ultimo projeto [**Blue Bank | Pan Academy**](https://github.com/williamjesusdev/
   <div align="center">
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=github_dark"
+        srcset="https://github-readme-stats-git-master-williamjesusdevs-projects.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=github_dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=swift"
+        srcset="https://github-readme-stats-git-master-williamjesusdevs-projects.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=swift"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=github_dark' alt='Top Langs'/>
+      <img src='https://github-readme-stats-git-master-williamjesusdevs-projects.vercel.app/api/top-langs/?username=williamjesusdev&layout=compact&hide_border=true&card_width=390&theme=github_dark' alt='Top Langs'/>
     </picture>
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&show=prs_merged&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark&hide=issues%2Ccontribs"
+        srcset="https://github-readme-stats-git-master-williamjesusdevs-projects.vercel.app/api?username=williamjesusdev&show=prs_merged&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark&hide=issues%2Ccontribs"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=williamjesusdev&show=prs_merged&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=swift&hide=issues%2Ccontribs"
+        srcset="https://github-readme-stats-git-master-williamjesusdevs-projects.vercel.app/api?username=williamjesusdev&show=prs_merged&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=swift&hide=issues%2Ccontribs"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src='https://github-readme-stats.vercel.app/api?username=williamjesusdev&show=prs_merged&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark&hide=issues%2Ccontribs' alt='William Github Stats'/>
+      <img src='https://github-readme-stats-git-master-williamjesusdevs-projects.vercel.app/api?username=williamjesusdev&show=prs_merged&count_private=true&show_icons=true&hide_border=true&card_width=400&theme=github_dark&hide=issues%2Ccontribs' alt='William Github Stats'/>
     </picture>
   </div>
     
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark"
+      srcset="https://github-readme-stats-git-master-williamjesusdevs-projects.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=swift"
+      srcset="https://github-readme-stats-git-master-williamjesusdevs-projects.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=swift"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark' alt='William Wakatime Stats'/>
+    <img src='https://github-readme-stats-git-master-williamjesusdevs-projects.vercel.app/api/wakatime?username=williamjesusdev&langs_count=6&hide_border=true&theme=github_dark' alt='William Wakatime Stats'/>
   </picture>
 
   <br>
